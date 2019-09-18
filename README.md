@@ -59,6 +59,6 @@ Copyright © 2015 Alexander Kiel
 Distributed under the Eclipse Public License, the same as Clojure.
 
 [1]: <https://github.com/clojure/core.async>
-[2]: <http://swannodette.github.io/2013/08/31/asynchronous-error-handling/>
-[3]: <http://martintrojer.github.io/clojure/2014/03/09/working-with-coreasync-exceptions-in-go-blocks/>
+[2]: <http://swannodette.github.io/2013/08/31/asynchronous-error-handling>
+[3]: <http://martintrojer.github.io/clojure/2014/03/09/working-with-coreasync-exceptions-in-go-blocks>
 [4]: <http://dev.clojure.org/jira/browse/ASYNC-61>
